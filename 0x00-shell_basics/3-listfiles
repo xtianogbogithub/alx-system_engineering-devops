@@ -1,3 +1,2 @@
-#!/bin/bashl
+#!/bin/bash
 ls -l
-
