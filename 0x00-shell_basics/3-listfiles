@@ -1,4 +1,3 @@
-#!/bin/bash
+#!/bin/bashl
 ls -l
 
-ls -la
