@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amF --file-type | sort -d 
+ls -amf --file-type | sort -d 
